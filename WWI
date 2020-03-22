@@ -1,1 +1,10 @@
 
+BI - QlikView Implementation - BI data visualization for WWI Importers (Microsoft sample database)
+	Programming language/Technologies: QlikView, SQL
+	Features: 
+•	QVD Builder extracts and transforms data via ODBC.
+•	Loads dimensions, facts, mapping and link tables to create the star schema.
+•	Main document loads data via QVC files for better performance.
+•	Displays sales by top 10 States or Cities (Bar chart) followed by a sales breakdown grid.
+•	Displays sales by salesperson comparing total sales with goals.
+•	Dashboard allows filter by year, quarter, month, and day.
